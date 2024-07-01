@@ -1,0 +1,15 @@
+Karty zostały pomyślnie utworzone. Nowych kart - 2.
+Numer karty: 00003231500255309912
+Numer karty: 00003231500255229912
+Karty zostały pomyślnie utworzone. Nowych kart - 2.
+Numer karty: 00003231500255559912
+Numer karty: 00003231500255489912
+Karty zostały pomyślnie utworzone. Nowych kart - 2.
+Numer karty: 00003231500255719912
+Numer karty: 00003231500255639912
+Karty zostały pomyślnie utworzone. Nowych kart - 2.
+Numer karty: 00003231500255979912
+Numer karty: 00003231500255899912
+Karty zostały pomyślnie utworzone. Nowych kart - 1.
+Numer karty: 00003231500256059912
+Wszystkie karty: ['00003231500255309912', '00003231500255229912', '00003231500255559912', '00003231500255489912', '00003231500255719912', '00003231500255639912', '00003231500255979912', '00003231500255899912', '00003231500256059912']
